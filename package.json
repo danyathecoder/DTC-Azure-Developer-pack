@@ -1,0 +1,32 @@
+{
+  "name": "dtc-azure-dev-pack",
+  "displayName": "DTC Azure Developer pack",
+  "publisher": "danyathecoder",
+  "description": "This pack contains extensions for work with Azure.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Azurite.azurite",
+    "GitHub.remotehub",
+    "ms-azure-devops.azure-pipelines",
+    "ms-azuretools.azure-dev",
+    "ms-azuretools.vscode-azureappservice",
+    "ms-azuretools.vscode-azurecontainerapps",
+    "ms-azuretools.vscode-azurefunctions",
+    "ms-azuretools.vscode-azureresourcegroups",
+    "ms-azuretools.vscode-azurestaticwebapps",
+    "ms-azuretools.vscode-azurestorage",
+    "ms-azuretools.vscode-azureterraform",
+    "ms-azuretools.vscode-azurevirtualmachines",
+    "ms-azuretools.vscode-cosmosdb",
+    "ms-vscode.azure-account",
+    "ms-vscode.azure-repos",
+    "ms-vscode.remote-repositories",
+    "ms-vscode.vscode-node-azure-pack"
+  ]
+}
