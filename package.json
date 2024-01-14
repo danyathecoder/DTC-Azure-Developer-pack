@@ -2,8 +2,9 @@
   "name": "dtc-azure-dev-pack",
   "displayName": "DTC Azure Developer pack",
   "publisher": "danyathecoder",
-  "description": "This pack contains extensions for work with Azure.",
+  "description": "This pack contains extensions to work with Azure.",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.85.0"
   },
