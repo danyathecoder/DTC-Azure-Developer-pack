@@ -1,16 +1,21 @@
-# vs-base-pack README
+# DTC Azure Developer pack README
 
-## Working with Markdown
+This pack contains extensions for work with Azure.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### Included extensions:
+* **Azure Static Web Apps**
+* **Azure Resources**
+* **Azure Pipelines**
+* **Azure Account**
+* **Azurite**
+* **Azure Repos**
+* **Azure terraform**
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+#### From Azure Tools extension pack:
+* **Azure Developer CLI**
+* **Azure Functions**
+* **Azure Container Apps**
+* **Azure App Service**
+* **Azure Virtual Machines**
+* **Azure Storage**
+* **Azure Databases**
